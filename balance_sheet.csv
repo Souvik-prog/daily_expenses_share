@@ -1,0 +1,26 @@
+User,Mobile,Total Expenses,Description,Amount,Payer
+John Doe,1234567890,7500
+,,,Lunch,1000.00,john.doe@example.com
+,,,Shopping,1500.00,john.doe@example.com
+,,,Party,2000.00,john.doe@example.com
+,,,Shopping,1500.00,john.doe@example.com
+,,,Shopping,1500.00,john.doe@example.com
+Friend 1,1234567891,8000
+,,,Lunch,1000.00,john.doe@example.com
+,,,Shopping,2000.00,john.doe@example.com
+,,,Party,1000.00,john.doe@example.com
+,,,Shopping,2000.00,john.doe@example.com
+,,,Shopping,2000.00,john.doe@example.com
+Friend 2,1234567892,3500
+,,,Lunch,1000.00,john.doe@example.com
+,,,Shopping,500.00,john.doe@example.com
+,,,Party,1000.00,john.doe@example.com
+,,,Shopping,500.00,john.doe@example.com
+,,,Shopping,500.00,john.doe@example.com
+""
+Overall Expenses Summary
+Lunch,3000.00,john.doe@example.com
+Shopping,4000.00,john.doe@example.com
+Party,4000.00,john.doe@example.com
+Shopping,4000.00,john.doe@example.com
+Shopping,4000.00,john.doe@example.com
